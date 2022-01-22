@@ -1,0 +1,40 @@
+{
+  "mealDiary": [
+    {
+      "name": "eggs",
+      "ingredients": [
+        {
+          "ingredient": "eggs",
+          "cals": 160
+        },
+        {
+          "ingredient": "butter",
+          "cals": 50
+        },
+        {
+          "ingredient": "greenonion",
+          "cals": 30
+        }
+      ],
+      "calories": 240,
+      "type": "BREAKFAST"
+    },
+    {
+      "name": "bagel",
+      "ingredients": [
+        {
+          "ingredient": "bagel",
+          "cals": 300
+        },
+        {
+          "ingredient": "butter",
+          "cals": 120
+        }
+      ],
+      "calories": 420,
+      "type": "BREAKFAST"
+    }
+  ],
+  "calLeft": 1340,
+  "calTotal": 660
+}
